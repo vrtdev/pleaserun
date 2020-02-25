@@ -31,7 +31,6 @@ __END__
 .rubocop.yml
 CHANGELOG.asciidoc
 Gemfile
-Gemfile.lock
 Guardfile
 LICENSE
 Makefile
